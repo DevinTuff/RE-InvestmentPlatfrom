@@ -1,7 +1,8 @@
 # RE-InvestmentPlatfrom
 Front-End:
-React (Jsx, Javascript)
-UI
+- React (Jsx, Javascript)
+- UI
+
 Back-End:
 
 
